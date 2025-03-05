@@ -11,14 +11,17 @@
             "id": "c40bab50d6d7b584",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Pack/Test.md",
-                "mode": "source",
-                "source": false
+                "file": "Dragon/Skill Tree.canvas",
+                "viewState": {
+                  "x": 550,
+                  "y": -124,
+                  "zoom": -0.14116054735802414
+                }
               },
-              "icon": "lucide-file",
-              "title": "Test"
+              "icon": "lucide-layout-dashboard",
+              "title": "Skill Tree"
             }
           }
         ]
@@ -169,24 +172,24 @@
   "active": "c40bab50d6d7b584",
   "lastOpenFiles": [
     "Dragon/Skill Tree.canvas",
+    "Dragon/Molten Weapons.md",
+    "Dragon/Molten Tools.md",
+    "Dragon/Iron scales.md",
+    "Dragon/Infernal Armour.md",
+    "Dragon/Flight.md",
+    "Dragon/Fire Fists.md",
+    "Dragon/Fire Breath.md",
+    "Dragon/Dimond Scales.md",
+    "Dragon",
     "Pack/Test.md",
     "aspects",
     "2025-03-04.md",
     "Ancient/Darkness.md",
     "Untitled.md",
     "Cat",
-    "Dragon/Molten Tools.md",
-    "Dragon/Molten Weapons.md",
-    "Dragon/Fire Breath.md",
-    "Dragon/Fire Fists.md",
-    "Dragon/Infernal Armour.md",
-    "Dragon/Dimond Scales.md",
-    "Dragon/Iron scales.md",
-    "Dragon/Flight.md",
     "Pack",
     "Gurdian",
     "Ancient",
-    "Dragon",
     "Dragon.md",
     "Welcome.md"
   ]
