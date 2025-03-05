@@ -97,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dragon/Skill Tree.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Skill Tree"
             }
           },
           {
@@ -171,6 +172,8 @@
   },
   "active": "c40bab50d6d7b584",
   "lastOpenFiles": [
+    "Pack/Test.md",
+    "Pack",
     "Dragon/Skill Tree.canvas",
     "Dragon/Molten Weapons.md",
     "Dragon/Molten Tools.md",
@@ -181,13 +184,11 @@
     "Dragon/Fire Breath.md",
     "Dragon/Dimond Scales.md",
     "Dragon",
-    "Pack/Test.md",
     "aspects",
     "2025-03-04.md",
     "Ancient/Darkness.md",
     "Untitled.md",
     "Cat",
-    "Pack",
     "Gurdian",
     "Ancient",
     "Dragon.md",
