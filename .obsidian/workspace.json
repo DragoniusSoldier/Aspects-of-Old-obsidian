@@ -11,17 +11,14 @@
             "id": "c40bab50d6d7b584",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dragon/Skill Tree.canvas",
-                "viewState": {
-                  "x": 637.3366609128482,
-                  "y": -148.9533316893852,
-                  "zoom": -0.6411605473580242
-                }
+                "file": "Pack/Test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Skill Tree"
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
         ]
@@ -171,8 +168,9 @@
   },
   "active": "c40bab50d6d7b584",
   "lastOpenFiles": [
-    "aspects",
     "Dragon/Skill Tree.canvas",
+    "Pack/Test.md",
+    "aspects",
     "2025-03-04.md",
     "Ancient/Darkness.md",
     "Untitled.md",
