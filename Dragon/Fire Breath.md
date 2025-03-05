@@ -1,0 +1,1 @@
+You gain the ability to spew out flames

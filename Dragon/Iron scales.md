@@ -1,0 +1,1 @@
+You gain armour points without equipping armour

@@ -1,0 +1,1 @@
+Your weapons become so hot, they deal extra damage

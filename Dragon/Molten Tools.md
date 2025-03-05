@@ -1,0 +1,1 @@
+You imbue your pickaxe with molten energy, melting anything you mine

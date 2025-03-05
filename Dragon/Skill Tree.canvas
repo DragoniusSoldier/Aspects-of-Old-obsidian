@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"5ab2d10ce9ad46aa","type":"file","file":"Dragon/Flight.md","x":123,"y":-40,"width":217,"height":60,"color":"#006b07"},
+		{"id":"6248313496f20584","type":"file","file":"Dragon/Iron scales.md","x":160,"y":-240,"width":217,"height":58,"color":"#ffffff"},
+		{"id":"e0270ae189908ca2","type":"file","file":"Dragon/Dimond Scales.md","x":-240,"y":-440,"width":319,"height":50,"color":"#0071eb"},
+		{"id":"1e0b34c51a8fc274","type":"file","file":"Dragon/Infernal Armour.md","x":440,"y":-440,"width":279,"height":50,"color":"#b80000"},
+		{"id":"c052dba5617500b3","type":"file","file":"Dragon/Fire Fists.md","x":594,"y":-70,"width":250,"height":60,"color":"#ff0000"},
+		{"id":"66d8ed9e918530fe","type":"file","file":"Dragon/Fire Breath.md","x":1040,"y":-271,"width":250,"height":60,"color":"#ff0000"},
+		{"id":"594969ad8051e70a","type":"file","file":"Dragon/Molten Weapons.md","x":1040,"y":-40,"width":300,"height":60,"color":"#ff0000"},
+		{"id":"7b25d410b514155f","type":"file","file":"Dragon/Molten Tools.md","x":1052,"y":132,"width":250,"height":60,"color":"#ff0000"}
+	],
+	"edges":[
+		{"id":"f8ce5af733e4413f","fromNode":"5ab2d10ce9ad46aa","fromSide":"top","toNode":"6248313496f20584","toSide":"bottom"},
+		{"id":"4194cf86da258cc6","fromNode":"6248313496f20584","fromSide":"top","toNode":"e0270ae189908ca2","toSide":"bottom"},
+		{"id":"f6429e7841fa7371","fromNode":"6248313496f20584","fromSide":"top","toNode":"1e0b34c51a8fc274","toSide":"bottom"},
+		{"id":"4b3d58ba0e0ec20f","fromNode":"5ab2d10ce9ad46aa","fromSide":"right","toNode":"c052dba5617500b3","toSide":"left"},
+		{"id":"8d6a288e8c86b139","fromNode":"c052dba5617500b3","fromSide":"right","toNode":"66d8ed9e918530fe","toSide":"left"},
+		{"id":"b44a9a2ff0e9e1a4","fromNode":"c052dba5617500b3","fromSide":"right","toNode":"594969ad8051e70a","toSide":"left"},
+		{"id":"83ee7620f86f2b29","fromNode":"c052dba5617500b3","fromSide":"right","toNode":"7b25d410b514155f","toSide":"left"}
+	]
+}
