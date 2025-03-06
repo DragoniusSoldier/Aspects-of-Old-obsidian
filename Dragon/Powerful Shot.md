@@ -1,0 +1,1 @@
+Fireball deals more damage, at the cost of consuming more energy

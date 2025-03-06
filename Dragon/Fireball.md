@@ -1,0 +1,1 @@
+You gain the ability to fire a concentrated blast of fire

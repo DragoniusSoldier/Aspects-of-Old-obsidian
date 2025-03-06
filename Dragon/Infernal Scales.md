@@ -1,0 +1,1 @@
+You are even more resistant to attacks, but water damages you

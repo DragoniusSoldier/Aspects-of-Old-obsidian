@@ -1,0 +1,1 @@
+You regain your fire even faster than before

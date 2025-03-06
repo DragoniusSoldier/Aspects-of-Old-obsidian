@@ -1,0 +1,1 @@
+Your breath deals more damage, but it consumes more of your flames

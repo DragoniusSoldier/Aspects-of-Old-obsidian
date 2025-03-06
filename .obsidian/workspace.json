@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dragon/Skill Tree.canvas",
                 "viewState": {
-                  "x": 550,
-                  "y": -124,
-                  "zoom": -0.14116054735802414
+                  "x": 456.665395135215,
+                  "y": 148.5221007311168,
+                  "zoom": -0.3333333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -166,23 +166,32 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "c40bab50d6d7b584",
+  "active": "88edc97fa9e44e9f",
   "lastOpenFiles": [
+    "Dragon/Infernal Scales.md",
+    "Dragon/Ring of Fire.md",
+    "Dragon/Skill Tree.canvas",
+    "Dragon/Powerful Shot.md",
+    "Dragon/Intense Fire.md",
+    "Dragon/Fireball.md",
+    "Dragon/Faster Recovery.md",
+    "Dragon/Fire Recovery.md",
+    "Dragon/Even larger Glands.md",
+    "Dragon/Lava Sight.md",
+    "Dragon/Larger Glands.md",
+    "Dragon/Fire Breath.md",
+    "Dragon/Molten Tools.md",
+    "Dragon/Molten Weapons.md",
+    "Dragon/Fire Fists.md",
+    "Dragon/Infernal Armour.md",
+    "Dragon/Dimond Scales.md",
+    "Dragon/Iron scales.md",
     "Pack/Test.md",
     "Pack",
-    "Dragon/Skill Tree.canvas",
-    "Dragon/Molten Weapons.md",
-    "Dragon/Molten Tools.md",
-    "Dragon/Iron scales.md",
-    "Dragon/Infernal Armour.md",
     "Dragon/Flight.md",
-    "Dragon/Fire Fists.md",
-    "Dragon/Fire Breath.md",
-    "Dragon/Dimond Scales.md",
     "Dragon",
     "aspects",
     "2025-03-04.md",

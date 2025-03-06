@@ -1,0 +1,1 @@
+The Fireball leaves behind residual fire, damaging enemies and lighting them on fire
