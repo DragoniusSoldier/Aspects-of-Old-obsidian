@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Dragon/Skill Tree.canvas",
+                "file": "Dragon/()Draconic Skill Tree.canvas",
                 "viewState": {
-                  "x": 880.5293866157117,
-                  "y": -129.65567912931934,
-                  "zoom": -1.1342375057854348
+                  "x": 907.6011592423506,
+                  "y": -16.92450815277506,
+                  "zoom": -1.2594445653537336
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Skill Tree"
+              "title": "()Draconic Skill Tree"
             }
           }
         ]
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dragon/Skill Tree.canvas",
+                "file": "Dragon/()Draconic Skill Tree.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Skill Tree"
+              "title": "Backlinks for ()Draconic Skill Tree"
             }
           },
           {
@@ -171,10 +171,13 @@
   },
   "active": "c40bab50d6d7b584",
   "lastOpenFiles": [
+    "Dragon/Fire Fists.md",
+    "Dragon/Molten Tools.md",
+    "Dragon/()Draconic Skill Tree.canvas",
+    "Dragon/Molten Weapons.md",
     "Dragon/Powerful Shot.md",
     "Dragon/Ring of Fire.md",
     "Dragon/Fireball.md",
-    "Dragon/Skill Tree.canvas",
     "Dragon/Intense Fire.md",
     "Dragon/Fire Recovery.md",
     "Dragon/Larger Glands.md",
@@ -190,9 +193,6 @@
     "Dragon/Faster Recovery.md",
     "Dragon/Even larger Glands.md",
     "Dragon/Fire Breath.md",
-    "Dragon/Molten Tools.md",
-    "Dragon/Molten Weapons.md",
-    "Dragon/Fire Fists.md",
     "Dragon/Infernal Armour.md",
     "Dragon/Dimond Scales.md",
     "Pack/Test.md",

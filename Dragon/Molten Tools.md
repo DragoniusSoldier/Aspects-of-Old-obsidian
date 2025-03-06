@@ -1,1 +1,1 @@
-You imbue your pickaxe with molten energy, melting anything you mine
+You imbue your pickaxe with molten energy, melting anything you mine (only while fire fists is active)

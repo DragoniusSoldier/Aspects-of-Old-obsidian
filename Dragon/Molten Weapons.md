@@ -1,1 +1,1 @@
-Your weapons become so hot, they deal extra damage
+Your weapons become so hot, they deal extra damage (Only while fire fists is active)

@@ -1,1 +1,1 @@
-You gain the ability to imbue your weapon with heat from your hands, lighting your enemies on fire
+You gain the ability to imbue your weapon with heat from your hands, lighting your enemies on fire (consumes energy?)
