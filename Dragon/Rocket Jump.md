@@ -1,0 +1,1 @@
+You gain the ability to propel yourself into the air (only on ground)

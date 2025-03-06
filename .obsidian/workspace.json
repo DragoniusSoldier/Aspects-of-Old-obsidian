@@ -15,9 +15,9 @@
               "state": {
                 "file": "Dragon/Skill Tree.canvas",
                 "viewState": {
-                  "x": 456.665395135215,
-                  "y": 148.5221007311168,
-                  "zoom": -0.3333333333333332
+                  "x": 695.805862585775,
+                  "y": 81.72773822886087,
+                  "zoom": -1.1342375057854348
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -169,11 +169,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88edc97fa9e44e9f",
+  "active": "c40bab50d6d7b584",
   "lastOpenFiles": [
+    "Dragon/Rocket Jump.md",
+    "Dragon/Skill Tree.canvas",
+    "Dragon/Faster Launches.md",
+    "Dragon/Draconic Propulsion.md",
+    "Dragon/Draconic Flap.md",
+    "Dragon/Draconic Constitution.md",
     "Dragon/Infernal Scales.md",
     "Dragon/Ring of Fire.md",
-    "Dragon/Skill Tree.canvas",
     "Dragon/Powerful Shot.md",
     "Dragon/Intense Fire.md",
     "Dragon/Fireball.md",
@@ -195,12 +200,8 @@
     "Dragon",
     "aspects",
     "2025-03-04.md",
-    "Ancient/Darkness.md",
-    "Untitled.md",
     "Cat",
     "Gurdian",
-    "Ancient",
-    "Dragon.md",
-    "Welcome.md"
+    "Ancient"
   ]
 }
