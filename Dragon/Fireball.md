@@ -1,1 +1,1 @@
-You gain the ability to fire a concentrated blast of fire
+You gain the ability to eject a concentrated blast of fire
