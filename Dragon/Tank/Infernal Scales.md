@@ -1,1 +1,1 @@
-You are even more resistant to attacks, but water damages you
+You are even more resistant to attacks, but water damages you and weakness you

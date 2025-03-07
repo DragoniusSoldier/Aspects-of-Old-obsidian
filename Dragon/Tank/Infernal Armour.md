@@ -1,1 +1,1 @@
-You are immune to fire and lava
+You are immune to fire and lava, but are slower in water
