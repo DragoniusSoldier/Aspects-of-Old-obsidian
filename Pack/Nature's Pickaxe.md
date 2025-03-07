@@ -3,3 +3,4 @@ Attack Speed: normal pickaxe
 Durability: Infinite?
 Netherite level mining
 No fire burn
+Desert temple/ Mansion / **Strong Hold**

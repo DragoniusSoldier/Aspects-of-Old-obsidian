@@ -11,17 +11,14 @@
             "id": "c40bab50d6d7b584",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dragon/Draconic Skill Tree.canvas",
-                "viewState": {
-                  "x": 975,
-                  "y": 0,
-                  "zoom": -1.2594445653537336
-                }
+                "file": "Pack/Nature's Pickaxe.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Draconic Skill Tree"
+              "icon": "lucide-file",
+              "title": "Nature's Pickaxe"
             }
           }
         ]
@@ -169,15 +166,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88edc97fa9e44e9f",
+  "active": "c40bab50d6d7b584",
   "lastOpenFiles": [
     "Cat/Shadow Bow.md",
-    "Gurdian/Guardian Shield.md",
     "Pack/Nature's Pickaxe.md",
-    "Dragon/Draconic Blade.md",
-    "Pack/Test.md",
-    "Ancient/Ancient Axe.md",
+    "Gurdian/Guardian Shield.md",
     "Dragon/Draconic Skill Tree.canvas",
+    "Ancient/Ancient Axe.md",
+    "Dragon/Draconic Blade.md",
+    "Ancient/Darkness.md",
+    "Pack/Test.md",
     "Dragon/Untitled",
     "Dragon/Offens",
     "Dragon/Tank",
@@ -200,8 +198,6 @@
     "Dragon/Tank/Lava Sight.md",
     "Dragon/Tank/Iron scales.md",
     "Dragon/Movement/Flight.md",
-    "Dragon/Offens/Faster Recovery.md",
-    "Dragon/Offens/Even larger Glands.md",
     "Pack",
     "Dragon",
     "aspects",

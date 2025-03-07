@@ -4,3 +4,4 @@ Durability: Infinite?
 Fire aspect II
 +1 looting (looting 3 enchant = looting 4)?
 no fire burn
+End City loot
